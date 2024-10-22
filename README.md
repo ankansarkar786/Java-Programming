@@ -1,2 +1,2 @@
 # **`Java-Programming`**
-All the codes of my 100 days of java programming challenge
+Here is the journey of java programming along with some data structure and algorithm and many more...
