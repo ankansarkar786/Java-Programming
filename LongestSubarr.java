@@ -1,5 +1,6 @@
 package com.ankan;
 import java.util.*;
+//Better approach but not Optimal
 public class LongestSubarr {
 	public static int findLongestSubarrayWithSumK(int[] arr, int K) {
         // Map to store sum of elements up to the current index
