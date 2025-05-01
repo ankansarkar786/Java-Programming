@@ -1,9 +1,9 @@
-package com.ankan;
+package javaDsa;
 
 public class SimpleBinarySearch {
 	static int f(int[] nums, int low, int high, int target) {
         if (low > high) return -1;
-        int mid = (low + high) / 2;
+        int mid = (low + (high-low)) / 2;
 
         if (nums[mid] == target) return mid;
         else if (target > nums[mid]) {
