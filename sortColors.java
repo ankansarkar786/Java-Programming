@@ -1,5 +1,5 @@
-package com.ankan;
-
+package javaDSA;
+//Sort an Array of 0's, 1's and 2's
 public class sortColors {
 	 public void sortColorsf(int[] nums) {
 	        int low = 0;
