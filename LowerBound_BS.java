@@ -1,4 +1,4 @@
-package com.ankan;
+package javaDSA;
 
 public class LowerBound_BS {
 	public static int lowerBound(int []arr, int n, int x) {
